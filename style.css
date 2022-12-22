@@ -1,10 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 
-html, body {
-	height: 100%;
-  width: 100%;
-}
-
 body {
 	margin: 0;
 	background-image: url("https://www.toptal.com/designers/subtlepatterns/uploads/triangles_pattern.png");
