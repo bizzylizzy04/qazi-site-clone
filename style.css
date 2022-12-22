@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+html, body {
+	height: 100%;
+  width: 100%;
+}
+
+body {
+	margin: 0;
+	background-image: url("https://www.toptal.com/designers/subtlepatterns/uploads/triangles_pattern.png");
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: #111;
+	text-decoration: none;
+	color: white;
+}
+
+.active {
+	background-color: orange;
+}
+
+.content {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 900;
+	line-height: 2.5em;
+	max-width: 600px;
+	margin: auto;
+	padding-top: 71px;
+	padding-bottom: 80px;
+}
